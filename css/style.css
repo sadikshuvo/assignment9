@@ -1,0 +1,131 @@
+.navbar {
+background-color: white!important;
+}
+.nav-item {
+padding:10px 10px;
+}
+.nav-link {color:#556270 !important;padding: 10px 20px;font-weight: 500;}
+.nav-link:hover {
+background-color: #58d7be;
+border-radius: 15px;
+color: black!important;
+box-shadow: 3px 4px 20px #58d7be;
+}
+.navbar-nav .nav-item:last-child a {
+background-color: #58d7be;
+color: black!important;
+border-radius: 15px;
+}
+.col-md-6 {
+position: relative;
+width: 100%;
+padding-left: 0px;
+padding-right: 0px;
+}
+.location {background-image: url('../images/red-notebook-and-smartphone-beside-computer-laptop-3774023.jpg');background-color: #98949445;background-blend-mode: multiply;border-bottom: 5px solid #58d7be;}
+.btn-primary {color: #556270 !important;background-color: #58d7be;border-color:#58d7be;border-radius: 15px;margin: 0px 0px 70px;}
+.btn-primary:hover {
+color: Black!important;
+background-color: #58d7be;
+box-shadow: 3px 4px 20px #58d7be;
+border-color: #58d7be;
+border-radius: 15px;
+}
+.location h2 {color: #fff;padding: 90px 0px 35px;font-weight: 700;font-size: 45px;}
+.location p {color: #fff;font-size: 24px;font-weight: 600;padding: 30px 30px;}
+.logo-section {
+background-color: #f6f6f6;
+}
+img {
+max-width: 100%;
+}
+.public-section img, .automative-section img, .transportation-section img {
+	max-width: 100%
+	height: 400px;
+}
+.mg-left {
+margin-left: 23%;
+margin-top: 20%;
+margin-right: 20%
+}
+.mg-left p {
+color: #6d7178;
+padding-bottom: 20px;
+}
+.learn-more {
+background-color: #58d7be;
+color:#556270 !important;
+border-radius: 15px;
+font-weight: 500;
+padding: 13px 25px;
+}
+.learn-more:hover {
+color: Black!important;
+background-color: #58d7be;
+box-shadow: 3px 4px 20px #58d7be;
+border-color: #58d7be;
+border-radius: 15px;
+}
+.developers-section {
+background-color: #f6f6f6;
+}
+.developers-section p {
+color: #6d7178;
+}
+.developers-btn {color: #556270!important;font-weight: 500;padding: 10px 30px; background-color: #58d7be;border-color:#58d7be;border-radius: 15px;margin: 0px 0px 35px;}
+.developers-btn:hover {color: Black!important;background-color: #58d7be;box-shadow: 3px 4px 20px #58d7be;border-color: #58d7be;border-radius: 15px;}
+.developers-btn2 {color: #556270 !important;font-weight: 500;padding: 10px 70px;border-color:#58d7be;border-radius: 15px;margin: 0px 0px 35px;}
+.developers-btn2:hover {color: Black!important;background-color: #58d7be;box-shadow: 3px 4px 20px #58d7be;border-color: #58d7be;border-radius: 15px;}
+.btn-go {
+    color: #556270 !important;
+    background-color: white;
+    border-color: #58d7be;
+    border-radius: 30px;
+    margin: 30px 0px;
+}
+.btn-go:hover {
+color: Black!important;
+background-color: #58d7be;
+box-shadow: 3px 4px 20px #58d7be;
+border-color: #58d7be;
+border-radius: 15px;
+}
+.last-btn {color: white;font-weight: 500;padding: 10px 70px;border-color:#58d7be;border-radius: 15px;margin: 0px 0px 35px;}
+.last-btn:hover {color: Black!important;background-color: #58d7be;box-shadow: 3px 4px 20px #58d7be;border-color: #58d7be;border-radius: 15px;}
+.unlock-section p {
+	color: #6d7178;
+}
+.unlock-section img {
+	height: 200px;
+}
+.before-footer{
+	background-color: #1B222C;
+	color: white;
+}
+.unlock-section a{
+	text-decoration: none;
+	color: black;
+}
+.btn-ctrl {
+	width: 100%;
+	height: 200px;
+	margin-bottom: 15px;
+}
+footer {
+	background-color: #3f454d;
+	color: white;
+}
+footer span {
+	display: block;
+    height: 2px;
+    width: 100%;
+    background: #6d7178;
+    margin: auto;
+}
+footer a {
+color: white;
+}
+footer a:hover {
+	color: white;
+	
+}
